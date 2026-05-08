@@ -26,7 +26,7 @@ Once the forge is lit and initial code is pushed, the setup will follow these ri
 **Proposed Rituals:**
 1. **Clone the repository:** 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Catman11202/D-D-Card-Game
    ```
 2. **Import to Godot:** Use the Godot Project Manager to import the `project.godot` file (once created).
 
