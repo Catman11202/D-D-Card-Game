@@ -34,8 +34,9 @@ Once the forge is lit and initial code is pushed, the setup will follow these ri
 
 ### 🤝 The Fellowship (Planned Credits)
 *   **Lead Architect:** [Catman11202](https://github.com/Catman11202)
-*   **The Sorcerers (Code):** [Gubbler, Catman11202, Nate77]
+*   **The Sorcerers (Code):** [Catman11202, Nate77]
 *   **The Bards (Art/Sound):** [TBD]
+*   **The Paladin (README):**[Gubbler]
 
 ---
 
